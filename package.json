@@ -1,0 +1,13 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "It is just to learn to use Nodejs",
+  "main": "index.js",
+  "run-new": "Task1.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ask",
+  "license": "ISC",
+  "devDependencies": {}
+}
